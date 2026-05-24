@@ -182,9 +182,3 @@ Engineering Student
 Give it a ⭐ on GitHub and feel free to contribute!
 
 ---
-
-If you want, I can also:
-
-* Make this **more ATS/project-report style**
-* Add **ER diagram + schema SQL**
-* Or create a **killer GitHub description + tags** 🚀
